@@ -1,2 +1,2 @@
 # My-CV
-This is my CV
+This is my first GitHub project.

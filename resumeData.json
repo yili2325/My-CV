@@ -1,0 +1,196 @@
+{
+  "main": {
+    "name":"Yi Li",
+    "description":"Finance, Software System Engineering, Project Management",
+    "image":"IMG_4153.JPG",
+    "bio":"My name is Yi Li, a UTS student of Software System Engineering. My bechlor's degree was finance. I have interests in all things related xsxsto the Fintech. I graduated from the University of Sydney with a Master of Project Management degree in 2023. Since then, I live in Sydney. ",
+    "contactmessage":"Thank you for your feedback.",
+    "email": "liyi1997119@gmail.com",
+    "phone": "(04) 12220194",
+    "github":"https://github.com/yili2325",
+    "project":"https://github.com/yili2325",
+    "address":{
+      "line1":"Address: 8-12 sheehy street",
+      "line2":"City: Sydney",
+      "line3":"Country: Australia"
+    },
+    "youtube":{
+      "english": {
+        "name": "David on Cloud",
+        "url": "https://www.youtube.com/channel/UCykMC_fzatQPcbun0VYG3YA"
+      },
+      "chinese": {
+        "name": "澳洲程序员大卫",
+        "url":"https://www.youtube.com/@aus-david"
+      }
+    },
+    "website": "http://cyberlark.com.au",
+    "resumedownload":"public/images/Yi Li.pdf",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/daiwei920",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/CyberlarkCode",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"youtube-chinese",
+        "url":"https://www.youtube.com/channel/UCArZ1Su6EjdiEA0qrx1Pfqg",
+        "className":"fa fa-youtube-square"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com",
+        "className":"fa fa-linkedin-square"
+      },
+      {
+        "name":"toutiao",
+        "url":"https://www.ixigua.com/home/1521358670931997/",
+        "className":"fa fa-weibo"
+      }
+    ]
+  },
+  "resume":{
+    "workmessage":"Project Management Related",
+    "skillmessage":"Technical Skills",
+    "education":[
+      {
+        "school":"Hebei University",
+        "degree":"Bechlor of Finance",
+        "graduated":"2016 - 2020",
+        "description":"Major courses:"
+      },
+      {
+        "school":"University of Sydney",
+        "degree":"Master of Project Management",
+        "graduated":"2022 - 2023",
+        "description":"Major courses:"
+      },
+      {
+        "school":"University of University of Technology Sydney",
+        "degree":"Master of Software System Engineering",
+        "graduated":"2023 - 2025",
+        "description":"Major courses:"
+      }
+      
+    ],
+    "work":[
+      {
+        "company":"University Of New South Wales(UNSW)",
+        "title":"Research Assistant",
+        "years":"June 2023 - December 2023",
+        "description1":"Cardiovascular risk prediction based on Machine Learning to guide healthy eating."
+      },
+      {
+        "company":"Yeahmobi",
+        "title":"Agile Project Manager",
+        "years":"March 2021 - September 2021",
+        "description1":"- Implemented Agile management principles,leading to a weekly team turnover of $50,000.",
+        "description2":"- Utilized Jira and MS Project, ensuring seamless communication with over 20 stakeholders."
+      },
+      {
+        "company":"CITIC Securities",
+        "title":"Investment Banking Department",
+        "years":"September 2020 - December 2020",
+        "description1":"- Participated in the initial work of IPO projects of an automotive intelligent driving and car networking company - Jing Wei Heng Run 688326.SH. ",
+        "description2":"- Proficiently utilized PowerBI to analyse financial data for companies."
+      }
+    ],
+    "projects":[
+      {
+        "company":"Yeahmobi",
+        "title":"Agile Project Manager",
+        "years":"March 2021 - September 2021",
+        "description1":"- Implemented Agile management principles,leading to a weekly team turnover of $50,000.",
+        "description2":"- Utilized Jira and MS Project, ensuring seamless communication with over 20 stakeholders."
+      
+      
+      },
+      {
+        "company":"University Of New South Wales(UNSW)",
+        "title":"Research Assistant",
+        "years":"June 2023 - December 2023",
+        "description1":"Cardiovascular risk prediction based on Machine Learning to guide healthy eating."
+      },
+      {
+        "company":"CITIC Securities",
+        "title":"Investment Banking Department",
+        "years":"September 2020 - December 2020",
+        "description1":"- Participated in the initial work of IPO projects of an automotive intelligent driving and car networking company - Jing Wei Heng Run 688326.SH. ",
+        "description2":"- Proficiently utilized PowerBI to analyse financial data for companies."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Data Analysis (Python, Tableau, Power BI)",
+        "level":"95%"
+      },
+      {
+        "name":"Frontend Development (React,  HTML, CSS)",
+        "level":"80%"
+      },
+      {
+        "name":"Embeded Software development (Java)",
+        "level":"80%"
+      },
+      {
+        "name":"Leadership & Management (Jira, MS Project, Github)",
+        "level":"90%"
+      },
+      {
+        "name":"Passion & Eager to learn",
+        "level":"100%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Course",
+        "description": "如何在澳洲找IT工作",
+        "category": "Course",
+        "image":"00.png",
+        "url":"https://course.cyberlark.com.au/courses/it"
+      },
+      {
+        "title":"Project",
+        "description": "Investment Property Calculator",
+        "category": "Project",
+        "image":"04.png",
+        "url":"https://property.cyberlark.com.au/"
+      },
+      {
+        "title":"Video",
+        "description": "How to use Investment Property Calculator",
+        "category": "Video",
+        "image":"01.png",
+        "url":"https://www.youtube.com/watch?v=W5I-eij2q6E"
+      },
+      {
+        "title":"Video",
+        "description":"How I passed the AWS Solutions Architect Professional Certification Exam",
+        "category":"Video",
+        "image":"02.png",
+        "url":"https://www.youtube.com/watch?v=qftrfxGou_E"
+      },
+      {
+        "title":"Video",
+        "description":"Amazon Interview Experience | All things you need to prepare amazon interview",
+        "category": "Video",
+        "image":"03.png",
+        "url":"https://www.youtube.com/watch?v=kg2sJgO3Esc"
+      },
+      {
+        "title":"Video",
+        "description": "如何使用澳洲房产投资计算器",
+        "category": "Video",
+        "image":"01-chinese.png",
+        "url":"https://www.youtube.com/watch?v=03WayI5czhY"
+      }
+    ]
+  }
+}

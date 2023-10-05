@@ -54,7 +54,6 @@ class Resume extends Component {
       </div>);
     });
 
-    const profilepics = "images/" + this.props.data.image;
     const other_experience = this.props.data.other_experience.map(function (other_experience) {
       return (<div key={other_experience.company}>
         <h3>{other_experience.company}</h3>

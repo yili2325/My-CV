@@ -35,7 +35,7 @@ class About extends Component {
                   <p className="address">
                     <span>
                       {name}<br />
-                      <a href={linkedIn} target="_blank">LinkedIn</a><br />
+                      <a href={linkedIn} target="_blank" rel="noreferrer">LinkedIn</a><br />
                       Mobile: {phone}<br />
                       Email: {email}<br />
                       {this.props.data.address.line1}<br />
@@ -46,7 +46,7 @@ class About extends Component {
                 </div>
                 <div className="columns download">
                   <p>
-                    <a href={resumeDownload} target="_blank" className="button">
+                    <a href={resumeDownload} target="_blank" rel="noreferrer" className="button">
                       <i className="fa fa-download"></i>Download Resume
                     </a>
                   </p>

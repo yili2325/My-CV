@@ -1,0 +1,206 @@
+{
+  "main": {
+    "name":"Yi Li",
+    "thankMsg":"Give Me a Shot  Expect the Astonishing!",
+    "description":"Please scroll down to view more details.",
+    "image":"IMG_5025.JPG",
+    "bio":"My name is Yi Li. I am currently a Master of Information Technology (Software Development) student in University of Technology Sydney (UTS).",
+    "bio2":"I am excited to apply for an internship position where I can leverage my extensive knowledge of multiple programming languages and my expertise in project management. My teamwork and communication abilities developed from working as Research Assistant and sales assistant for 2 years.",
+    "contactmessage":"Thank you for your feedback.",
+    "email": "liyi1997119@gmail.com",
+    "phone": "(04) 12220194",
+    "linkedIn": "https://www.linkedin.com/in/yi-li-400b8b250",
+    "address":{
+      "line1":"Address: 8-12 sheehy St, Glebe",
+      "line2":"City: New South Wales",
+      "line3":"Country: Australia"
+    },
+
+    "website": "http://cyberlark.com.au",
+    "resumedownload":"./images/Yi_Li.pdf",
+    "social":[
+      {
+        "name":"instagram",
+        "url":"https://instagram.com/yyyi_rosery?igshid=OGQ5ZDc2ODk2ZA==",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/yi-li-400b8b250",
+        "className":"fa fa-linkedin-square"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Technical Skills",
+    "softskillmessage": "Soft Skills",
+    "education":[
+      {
+        "school":"University of University of Technology Sydney (UTS)",
+        "degree":"Master of Information Technology (Software Development)",
+        "graduated":"2023.8 - 2025.6",
+        "description":"Subjects: Lans and Routing, Enterprise Software Testing, Software Development"
+      },
+      {
+        "school":"University of Sydney (USYD)",
+        "degree":"Master of Project Management",
+        "graduated":"2023.6",
+        "description":"Subject: Applied Project Management, People and Leadership, Strategic Risk Management "
+      },
+      {
+        "school":"Hebei University",
+        "degree":"Bachelor of Finance",
+        "graduated":"2020.6",
+        "description":"Subject: Linear Algebra, Calculus, Statistics, Probability and Mathematical Statistics, Financial Engineering, Microeconomics, Macroeconomics, Accounting, Behavioral Economics，Econometrics"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Backend Development (Java, Python, API)",
+        "level":"90%"
+      },
+      {
+        "name":"Network (IPv4, Subnetting, Routing, Cisco switches)",
+        "level":"80%"
+      },
+      {
+        "name":"Frontend Development (HTML, CSS)",
+        "level":"67%"
+      },
+      {
+        "name":"Data Analyst (Stata, Matlab, Tableau, PowerBI)",
+        "level":"93%"
+      },
+      {
+        "name":"Management Software (Jira, Trello, MS Project)",
+        "level":"95%"
+      },
+      {
+        "name":"Software Testing",
+        "level":"90%"
+      },
+      {
+        "name":"Machine Learning",
+        "level":"87%"
+      }
+    ],
+
+    "softSkills":[
+      {
+        "name":"Scrum and agile development",
+        "level":"90%"
+      },
+      {
+        "name":"Teamwork",
+        "level":"95%"
+      },
+      {
+        "name":"Leadership",
+        "level":"80%"
+      },
+      {
+        "name":"Problem-solving",
+        "level":"96%"
+      },
+      {
+        "name":"Planning & Organisation",
+        "level":"93%"
+      },
+      {
+        "name":"Passion & Eager to learn",
+        "level":"100%"
+      }
+    ],
+    "work":[
+      {
+        "company":"University of New South Wales (UNSW)",
+        "title":"Research Assistant",
+        "years":"June 2023 - Present",
+        "description":"Exhibited IT expertise and demonstrated knowledge of Machine Learning through active participation in two projects within the domains of medicine and computer science . "
+      },
+      {
+        "company":"CITIC Securities",
+        "title":"Data Analyst",
+        "years":"September 2020 - January 2021 ",
+        "description":"Participated in the initial work of IPO projects of 5 companies. Including an automotive intelligent driving and car networking company. "
+      },
+      {
+        "company":"Yeahmobi",
+        "title":"Agile Project Manager",
+        "years":"May 2021 - January 2022",
+        "description":"Successfully implemented Agile management principles by leading sprint planning sessions and conducting team stand-ups. "
+      }
+    ],
+
+    "project": [
+      {
+        "name":"Cardiovascular Risk Prediction in Australian Men and Women Using Python and Machine Learning",
+        "company":"University of New South Wales (UNSW)",
+        "years":"June 2023 - Present",
+        "description":"Developed a novel Machine learning model to handle imperfect data to calculate dietary risk in Australian men and women by using the 45 and Up Study database, which is Australia's largest ongoing study of health and aging. It was developed with Python, Stata, and SHAP framework. ",
+        "responsibility":"My responsibility: ",
+        "duty": "Imperfect data: Demonstrated Stata to pre-process the dataset. KNN Imputation and Pandas library for the missing value.",
+        "duty2": "Created prediction model: Compared multiple Machine Learning models such as LGBM, Random Forest, Neural network, etc. ",
+        "duty3": "Model evaluation: K-fold validation to evaluate the model's ability when given new data.",
+        "duty4": "Data visualization: Demonstrated SHAP framework and MATLAB plot for visualization operations."
+      },
+      {
+        "name":"Utilizing Python to Forecast Stock Market Trends",
+        "company":"University of New South Wales (UNSW)",
+        "years":"January 2023 - March 2023",
+        "description":"Demonstrated a Machine learning model to predict S&P 500 index prices from 2022 - 01- 01. ",
+        "responsibility":"My responsibility: ",
+        "duty": "Obtained the data from Yahoo! Finance using pandas, visualizing stock data, moving averages, developing a moving-average crossover strategy, backtesting, and benchmarking.",
+        "duty2": "Trained a random forest model using data from 2022-01-01 to make accurate predictions through backtesting.",
+        "duty3": "Through the addition of predictors and careful avoidance of overfitting, successfully improved the precision score from 0.36 to 0.58. ",
+        "duty4": "Utilized pyfolio for analytics, zipline for backtesting and algorithmic trading. "
+      },
+      {
+        "name":"Data Analysis for Upcoming IPO Company - Jing Wei Heng Run",
+        "company":"CITIC Securities",
+        "years":"September 2020 - January 2021",
+        "description":"Jing Wei Heng Run specializes in providing electronic products, R&D services, and advanced intelligent driving solutions for the automotive and unmanned transportation sectors. Contributed to Jing Wei Heng Run's IPO journey by leveraging Power BI, MATLAB, and my accounting expertise. ",
+        "responsibility":"My responsibility: ",
+        "duty": "Proficiently utilized PowerBI to analyze financial data for the company.",
+        "duty2":"Experienced in utilizing Python for data collection through web crawlers.",
+        "duty3": "Collaborated on the development of a Python script to efficiently extract and store company name information in an Excel file, streamlining the background investigation process. Achieved a high completion rate of 94%.",
+        "duty4": "Demonstrated exceptional writing skills by assisting in the creation of company prospectuses, organized more than 10 meeting notes, and actively participated in 3 business negotiations, resulted in a substantial improvement in work efficiency"
+      },
+      {
+        "name":"Sinicize World's Boutique Mobile Games Program",
+        "company":"Yeahmobi",
+        "years":"May 2021 - January 2022",
+        "description":"A game-importing program co-sponsored by Yeahmobi and Ali Games for overseas developers and manufacturers. Helped overseas companies campaign for the product launch. ",
+        "responsibility":"My responsibility: ",
+        "duty": "Demonstrated software tools like Jira, Trello, and MS Project to effectively manage projects.",
+        "duty2":"Ensured seamless communication with over 20 stakeholders and maintained satisfactory project progress.",
+        "duty3": "Organized stand-up meetings every day for 15 mins, a sprint cycle every four weeks.",
+        "duty4": "Proactively addressed stakeholder demands, coordinating and resolving them in a timely manner, iterating immediately based on demand."
+      }
+    ],
+
+    "other_experience":[
+      {
+        "company":"LUXE.IT.FWD",
+        "title":"Sales Assistant",
+        "years":"December 2022 - Current",
+        "image":"images/IMG_5192.jpg",
+        "description":"Cultivated strong client relationships, facilitated successful transactions, and upheld the brand's reputation for delivering exceptional value and style in the luxury resale market.. "
+      },
+      {
+        "company":"Sydney Film Festival",
+        "title":"Volunteer",
+        "years":"7 June 2023 - 18 June 2023",
+        "description":"Actively contributed to the successful execution of this festival event. Assisted in diverse roles such as event coordination, audience engagement, and logistics, demonstrating strong teamwork and adaptability. Built lasting relationships with fellow volunteers and film enthusiasts. This experience allowed me to expand my network and establish meaningful connections within the film and cultural event community."
+      },
+      {
+        "company":"UTS Library Service",
+        "title":"Volunteer",
+        "years":"September 2023 - Current",
+        "description":"Assisted library patrons in finding and checking out books, research materials, and digital resources. Contributed to the development of library events and workshops, fostering a supportive learning environment.. "
+      }
+    ]
+  }
+
+
+}

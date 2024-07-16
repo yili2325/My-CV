@@ -447,7 +447,6 @@ dd { margin: 0 0 0 20px; }
 .pagination .prev, .pagination .next {}
 
 /*  5. Images  --------------------------------------------------------- */
-
 img {
    max-width: 100%;
    height: auto;

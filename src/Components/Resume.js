@@ -1,5 +1,6 @@
 import React, {Component} from "react";
 import Slide from "react-reveal";
+import SkillBadge from "./SkillBadge";
 
 class Resume extends Component {
   getRandomColor() {
@@ -66,13 +67,9 @@ class Resume extends Component {
     });
 
     const skills = this.props.data.skills.map((skills) => {
-      const backgroundColor = this.getRandomColor();
-      const className = "bar-expand " + skills.name.toLowerCase();
-      const width = skills.level;
 
-      return (<li key={skills.name}>
-        <span style={{width, backgroundColor}} className={className}></span>
-        <em>{skills.name}</em>
+
+      return (<li key={skills}>
       </li>);
     });
 
@@ -114,10 +111,11 @@ class Resume extends Component {
           </div>
 
           <div className="nine columns main-col">
-            <p>{skillmessage}</p>
-            <div className="bars">
-              <ul className="skills">{skills}</ul>
-            </div>
+           <SkillBadge imageUrl={'images/skill/java.png'} color={'#FFFFFF'} size={80}/>
+            <SkillBadge imageUrl={'images/skill/python.png'} color={'#FFFFFF'} size={80}/>
+            <SkillBadge imageUrl={'images/skill/mysql.png'} color={'#FFFFFF'}/>
+            <SkillBadge imageUrl={'abc.png'} color={'#E02595'} />
+            <SkillBadge imageUrl={'abc.png'} color={'#000000'} />
           </div>
 
           <div className="nine columns main-col">

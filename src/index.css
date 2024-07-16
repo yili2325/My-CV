@@ -1,0 +1,15 @@
+.skillBadge {
+    border: 1px solid #cccccc;
+    height: 100px;
+    width: 100px;
+    border-radius: 5px;
+    float: left;
+    margin-right: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.skillBadge img {
+    width: auto;
+    height: 100%;
+}

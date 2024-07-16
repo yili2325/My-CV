@@ -4,7 +4,7 @@
     "thankMsg":"Give Me a Shot  Expect the Astonishing!",
     "description":"Please scroll down to view more details.",
     "image":"IMG_5025.JPG",
-    "bio":"My name is Yi Li. I am currently a Master of Information Technology (Software Development) student in University of Technology Sydney (UTS).",
+    "bio":"My name is Yi Li. I am currently a Master of Information Technology (Software Development) student in University of Technology Sydney (UTS). WAM HD(86.75)",
     "bio2":"I am excited to apply for an internship position where I can leverage my extensive knowledge of multiple programming languages and my expertise in project management. My teamwork and communication abilities developed from working as Research Assistant and sales assistant for 2 years.",
     "contactmessage":"Thank you for your feedback.",
     "email": "liyi1997119@gmail.com",
@@ -16,7 +16,7 @@
       "line3":"Country: Australia"
     },
 
-    "website": "http://cyberlark.com.au",
+    "website": "www.yili-tech2325.com",
     "resumedownload":"./images/Yi_Li.pdf",
     "social":[
       {
@@ -39,7 +39,7 @@
         "school":"University of University of Technology Sydney (UTS)",
         "degree":"Master of Information Technology (Software Development)",
         "graduated":"2023.8 - 2025.6",
-        "description":"Subjects: Lans and Routing, Enterprise Software Testing, Software Development"
+        "description":"Subjects: Lans and Routing, Software Development, UNIX, Database, Cloud Computing"
       },
       {
         "school":"University of Sydney (USYD)",

@@ -14,9 +14,6 @@ class Resume extends Component {
 
   render() {
     if (!this.props.data) return null;
-
-    const skillmessage = this.props.data.skillmessage;
-    const softskillmessage = this.props.data.softskillmessage;
     const education = this.props.data.education.map(function (education) {
       return (<div key={education.school}>
         <h3>{education.school}</h3>
@@ -64,24 +61,6 @@ class Resume extends Component {
         </p>
         <p>{other_experience.description}</p>
       </div>);
-    });
-
-    const skills = this.props.data.skills.map((skills) => {
-
-
-      return (<li key={skills}>
-      </li>);
-    });
-
-    const softSkills = this.props.data.softSkills.map((softSkill) => {
-      const backgroundColor = this.getRandomColor();
-      const className = "bar-expand " + softSkill.name.toLowerCase();
-      const width = softSkill.level;
-
-      return (<li key={softSkill.name}>
-        <span style={{width, backgroundColor}} className={className}></span>
-        <em>{softSkill.name}</em>
-      </li>);
     });
 
     return (<section id="resume">

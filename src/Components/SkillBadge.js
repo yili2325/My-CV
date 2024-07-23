@@ -7,7 +7,7 @@ function SkillBadge({imageUrl, color, size, note}) {
                onMouseOver={() => setShowNote(true)}
                onMouseLeave={() => setShowNote(false)}>
     {showNote && <p className="note">{note}</p>}
-    <img style={{width: size, height: size}} src={imageUrl}/>
+    <img style={{width: size, height: size}} src={imageUrl} alt={note} />
 
   </div>);
 }

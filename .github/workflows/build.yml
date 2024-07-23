@@ -21,4 +21,6 @@ jobs:
           export NODE_OPTIONS=--openssl-legacy-provider
 
       - name: Build
-        run: npm run build
+        run: |
+          export NODE_OPTIONS=--openssl-legacy-provider
+          npm run build

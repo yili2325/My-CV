@@ -109,20 +109,26 @@ class Resume extends Component {
               <span>Skills</span>
             </h1>
           </div>
-
           <div className="nine columns main-col">
-           <SkillBadge imageUrl={'images/skill/java.png'} color={'#FFFFFF'} size={80}/>
-            <SkillBadge imageUrl={'images/skill/python.png'} color={'#FFFFFF'} size={80}/>
-            <SkillBadge imageUrl={'images/skill/mysql.png'} color={'#FFFFFF'}/>
-            <SkillBadge imageUrl={'abc.png'} color={'#E02595'} />
-            <SkillBadge imageUrl={'abc.png'} color={'#000000'} />
-          </div>
-
-          <div className="nine columns main-col">
-            <p>{softskillmessage}</p>
-            <div className="bars">
-              <ul className="softSkills">{softSkills}</ul>
+            <div className="space">Back-end Skills</div>
+            <div className="box">
+              <SkillBadge imageUrl={'images/skill/java.png'} color={'#FFFFFF'} size={80} note={'Java'}/>
+              <SkillBadge imageUrl={'images/skill/python.png'} color={'#FFFFFF'} size={80} note={'Python'}/>
+              <SkillBadge imageUrl={'images/skill/nodejs.png'} color={'#FFFFFF'} note={'NodeJS'}/>
             </div>
+            <div className="clearfix space">Front-end Skills</div>
+            <div className="box" >
+              <SkillBadge imageUrl={'images/skill/php.png'} color={'#FFFFFF'} note={'PHP'}/>
+              <SkillBadge imageUrl={'images/skill/html.png'} color={'#FFFFFF'} note={'HTML'}/>
+              <SkillBadge imageUrl={'images/skill/css.png'} color={'#FFFFFF'} size={80} note={'CSS'}/>
+              <SkillBadge imageUrl={'images/skill/js.png'} color={'#FFFFFF'} note={'JavaScript'}/>
+            </div>
+            <div className="clearfix space">Other Skills</div>
+            <SkillBadge imageUrl={'images/skill/mysql.png'} color={'#FFFFFF'} note={'MySQL'}/>
+            <SkillBadge imageUrl={'images/skill/aws.png'} color={'#FFFFFF'} size={80} note={'AWS'}/>
+            <SkillBadge imageUrl={'images/skill/git.png'} color={'#FFFFFF'} note={'Git'}/>
+            <SkillBadge imageUrl={'images/skill/jira.png'} color={'#FFFFFF'} note={'Jira'}/>
+            <SkillBadge imageUrl={'images/skill/monday.png'} color={'#FFFFFF'} size={80} note={'Monday.com'}/>
           </div>
         </div>
       </Slide>
